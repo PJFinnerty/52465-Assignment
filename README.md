@@ -15,7 +15,6 @@ There are four distinct tasks to be carried out in your Jupyter notebook.
 3. Explain the use and purpose of at least five “Distributions” functions.
 4. Explain the use of seeds in generating pseudorandom numbers
 
-### Aim of the Project from the Students Perspective
 
 ### Files
 
@@ -23,6 +22,8 @@ There are four distinct tasks to be carried out in your Jupyter notebook.
 2. LICENSE
 3. ProgDA_Assignmen
 4. README.md
+5. waveheights.PNG
+6. debug.log
 
 
 ### References
